@@ -18,6 +18,7 @@ __pycache__
 /mjpg-streamer-experimental/mjpg_streamer
 /mjpg-streamer-experimental/_build
 ~mjpg-streamer
+mjpg-streamer/*
 *.deb
 _pkg/
 doc/
